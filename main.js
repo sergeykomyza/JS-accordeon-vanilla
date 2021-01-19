@@ -30,4 +30,5 @@ document.addEventListener('DOMContentLoaded', function () {
     // вызываем аккордеон(ы) по нужному селектору
     accordeons('.accordeon');
     accordeons('.accordeon_1');
+    
 });
